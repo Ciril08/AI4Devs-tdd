@@ -37,3 +37,6 @@ Really not happy with the result, it's not exploitable and testing quality is po
 Hello copilot, today I'm expecting you to help me generate tests for a class that stores data in a database. You are a proven and experienced senior developer in typescript and you are a quality assurance expert able to recommend and perfectly implement a testing strategy associated with my use case to ensure maximum trustability in the code and maintainability for the future.
 
 First, I would like you to provide me with a testing strategy for the candidateService.ts class, explaining what you are testing and why. Please note that I need the strategy to be in line with what is usually done in the TypeScript testing community.
+
+## Prompt 2
+For test 'should add a fully filled candidate successfully' I have an error : TypeError: Candidate_1.Candidate.prototype.save.mockResolvedValue is not a function please explain me why and how to fix it
